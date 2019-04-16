@@ -5,7 +5,6 @@ Simple Windows Utility Tool To see the Saved :satellite: WiFi Password :closed_l
 ## Table of Contents
 
 - [Install](#install)
-- [Usage](#usage)
 - [Contributors](#Contributors)
 - [Help](#Help)
 - [License](#license)
@@ -49,5 +48,5 @@ chavare.ravi123@gmail.com
 ```
 ## License
 
-[MIT © Ravishankar Chavare.](../LICENSE)
+[MIT © Ravishankar Chavare.](LICENSE)
 
