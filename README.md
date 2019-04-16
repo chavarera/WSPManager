@@ -4,6 +4,8 @@ WSPManager is a Simple windows utility tool.To get the Saved :satellite: WiFi ne
 
 ## Table of Contents
 
+- [Prerequisite](#Prerequisite)
+- [Structure](#Structure)
 - [Install](#install)
 - [Download](#Download)
 - [Contributors](#Contributors)
